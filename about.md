@@ -11,10 +11,10 @@ Welcome to my blog! Hope you find your stay here worthwhile. :
 ### More Information
 
 **22 | Toronto | Chinese Canadian**  
-Currently reading: Flash Boys - Michael Lewis
-Currently watching: Reruns of How I Met your Mother, Black Mirror (S4), Breaking Bad (S3)
-Anticipated next trip: Tokyo and Osaka
-Favourite drink: Flat White
+Currently reading: Flash Boys - Michael Lewis  
+Currently watching: Reruns of How I Met your Mother, Black Mirror (S4), Breaking Bad (S3)  
+Anticipated next trip: Tokyo and Osaka  
+Favourite drink: Flat White  
 
 ### Contact me
 
