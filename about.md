@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to my blog! Hope you find your stay here worthwhile. :relaxed:
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+**22 | Toronto | Chinese Canadian**
+:books: Currently reading: Flash Boys - Michael Lewis
+:tv: Currently watching: Reruns of How I Met your Mother, Black Mirror (S4), Breaking Bad (S3)
+:earth_americas: Anticipated next trip: Tokyo and Osaka
+:coffee: Favourite drink: Flat White
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Please contact me if you have any questions!
+
+[janicejs.chan@mail.utoronto.ca](mailto:janicejs.chan@mail.utoronto.ca)
