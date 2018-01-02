@@ -1,0 +1,25 @@
+---
+layout: post
+title: 2018 is Here!
+---
+
+```
+Blog jcBlog = new Blog("Janice", "Chan", 22, "Toronto");
+System.out.println("Hello World!");
+```
+
+### If you are reading this, you have chanced upon my blog! 
+Welcome, my name is Janice. I am currently 22, I live in Toronto, and I recently graduated from the University of Toronto as a Specialist in Computer Science. I worked as a co-op at Ontario Teachers' Pension Plan (OTPP), and CIBC. Currently, I am an Automation Engineer at RBC. This blog is to help me document my thoughts, share tutorials/interesting content, and generate discussion.  
+
+This year will be an exciting one! Recapping from 2017:
+- [x] Graduation
+- [x] Full-time job
+- [x] Find a flat
+- [ ] ...now what?
+
+I have a few things in mind for what is to come. Budget and save money, swim twice a week, sign up for driving school, pursue a CFA, sponsor a child, adopt a cat, consider/consult for a phoenix tattoo, travel to Tokyo and Osaka, cruise to Alaska... 
+Over everything, I want to keep in touch with my friends, and spend quality time with my family. This means I need to budget both time and money!
+
+What are you looking forward to for the upcoming year? What are your short-term and long-term goals? 
+
+Wishing everyone a very happy new year! :)
