@@ -3,6 +3,6 @@ layout: post
 title: Happy Holidays
 ---
 
-![_config.yml]({{ site.baseurl }}/images/christmas-tree.jpg =250x)
-![_config.yml]({{ site.baseurl }}/images/blue-mountain-day.jpg =250x)
-![_config.yml]({{ site.baseurl }}/images/blue-mountain-night.jpg =250x)
+<img src="{{ site.baseurl }}/images/christmas-tree.jpg" alt="Christmas Tree" style="width: 250px;"/>
+<img src="{{ site.baseurl }}/images/blue-mountain-day.jpg" alt="Blue Mountain Day" style="width: 250px;"/>
+<img src="{{ site.baseurl }}/images/blue-mountain-night.jpg" alt="Blue Mountain Night" style="width: 250px;"/>
