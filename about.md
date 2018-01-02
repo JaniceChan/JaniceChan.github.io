@@ -15,7 +15,7 @@ School: University of Toronto
 Work: Royal Bank of Canada  
 Sports: badminton, swimming, tennis, skiing, skating, softball  
 Currently reading: Flash Boys - Michael Lewis  
-Currently watching: Reruns of How I Met your Mother, Black Mirror (S4), Breaking Bad (S3)  
+Currently watching: How I Met your Mother (reruns), Black Mirror (S4), Breaking Bad (S3)  
 Want to travel to: Tokyo and Osaka  
 Favourite drink: Flat White  
 
