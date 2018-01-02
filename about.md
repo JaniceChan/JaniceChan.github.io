@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Welcome to my blog! Hope you find your stay here worthwhile. :relaxed:
+Welcome to my blog! Hope you find your stay here worthwhile.
 
 ### More Information
 
 **22 | Toronto | Chinese Canadian**
-:books: Currently reading: Flash Boys - Michael Lewis
-:tv: Currently watching: Reruns of How I Met your Mother, Black Mirror (S4), Breaking Bad (S3)
-:earth_americas: Anticipated next trip: Tokyo and Osaka
-:coffee: Favourite drink: Flat White
+Currently reading: Flash Boys - Michael Lewis
+Currently watching: Reruns of How I Met your Mother, Black Mirror (S4), Breaking Bad (S3)
+Anticipated next trip: Tokyo and Osaka
+Favourite drink: Flat White
 
 ### Contact me
 
